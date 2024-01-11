@@ -1,3 +1,5 @@
+Predict whether a customer continues with their account or closes it (e.g., churns).
+
 # Binary Classification with a Bank Churn Dataset
 
 [This is a Kaggle competition.](https://www.kaggle.com/competitions/playground-series-s4e1)
